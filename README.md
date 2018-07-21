@@ -1,6 +1,6 @@
 # Teo Simulation
 
-This repo contains my first work on simulating TEO using agent-based models. The agent-based modeling approach is based on a python package called [mesa] (http://mesa.readthedocs.io/en/master/ "Mesa Package") with minor adaptations.
+This repo contains my first work on simulating TEO using agent-based models. The agent-based modeling approach is based on a python package called [mesa](http://mesa.readthedocs.io/en/master/ "Mesa Package") with minor adaptations.
 
 ## Getting Started
 
