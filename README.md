@@ -39,11 +39,11 @@ In the current version of the model we have 4 different types of customers:
     * Has a small monthly deposit of 10
     * Contributes all available 80 hours per month
     * Always exchanges all teos for euros
-    * Always all euros from euro-wallet.
+    * Always withdraws all euros from euro-wallet.
 2. Investors - Invests in Teo to make a surplus with exchange rewards
     * Has a monthly deposit of 400
     * Always exchanges all teos for euros
-    * Always withdraws all euros for teos
+    * Always exchanges all euros for teos
     * Randomly withdraws once in 24 months/ticks
     * The withdraw amount is random between 20-80% (uniform)    
 3. Charitable Sponsors - Leaves all money in the system = indirect donation  
